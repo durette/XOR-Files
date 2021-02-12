@@ -12,7 +12,7 @@ Licensed under Creative Commons CC BY-SA 2.0
 Two argument syntaxes are supported.
 
 Recommended build line:
-gcc -Wall -Wextra -march=native -mtune=native -O3 -oxor.exe xor.c
+gcc -Wall -Wextra -march=native -mtune=native -O3 -oxor xor.c
 
 */
 
