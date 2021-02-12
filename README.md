@@ -53,5 +53,7 @@ Your local system crashes, and you need to roll back to the live image. The snap
 
 ## License
 Licensed under Creative Commons CC BY-SA 2.0
+
 Written by Kevin Durette
+
 Based on code by Philipp Hagemeister: https://stackoverflow.com/questions/6889067/how-to-perform-bitwise-operations-on-files-in-linux
